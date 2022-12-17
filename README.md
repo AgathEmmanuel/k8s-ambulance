@@ -25,7 +25,16 @@ Furthermore, the Kubernetes documentation also states a few requirements for som
     Operators are focused on a single application and its components.  
 
 
+# Steps  
 
+
+```
+
+https://kubernetes.io/blog/2021/06/21/writing-a-controller-for-pod-labels/
+
+
+operator-sdk init --domain=agathemmanuel.github.io --repo=github.com/agathemmanuel/k8s-ambulance
+```
 
 # Links  
 
